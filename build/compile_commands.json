@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem \"/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/include\" -g -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fsigned-char -Wall -Wextra -Wpedantic -Woverloaded-virtual -Wno-unknown-pragmas -Wno-enum-compare -Wshadow --coverage -o CMakeFiles/ProjetTD2.dir/bibliotheque_cours/bibliotheque_cours.cpp.o -c \"/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/bibliotheque_cours/bibliotheque_cours.cpp\"",
+  "file": "/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/bibliotheque_cours/bibliotheque_cours.cpp",
+  "output": "CMakeFiles/ProjetTD2.dir/bibliotheque_cours/bibliotheque_cours.cpp.o"
+},
+{
+  "directory": "/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem \"/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/include\" -g -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fsigned-char -Wall -Wextra -Wpedantic -Woverloaded-virtual -Wno-unknown-pragmas -Wno-enum-compare -Wshadow --coverage -o CMakeFiles/ProjetTD2.dir/bibliotheque_cours/verification_allocation.cpp.o -c \"/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/bibliotheque_cours/verification_allocation.cpp\"",
+  "file": "/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/bibliotheque_cours/verification_allocation.cpp",
+  "output": "CMakeFiles/ProjetTD2.dir/bibliotheque_cours/verification_allocation.cpp.o"
+},
+{
+  "directory": "/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem \"/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/include\" -g -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.2 -fsigned-char -Wall -Wextra -Wpedantic -Woverloaded-virtual -Wno-unknown-pragmas -Wno-enum-compare -Wshadow --coverage -o CMakeFiles/ProjetTD2.dir/td2.cpp.o -c \"/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/td2.cpp\"",
+  "file": "/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/td2.cpp",
+  "output": "CMakeFiles/ProjetTD2.dir/td2.cpp.o"
+}
+]

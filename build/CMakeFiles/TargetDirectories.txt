@@ -1,0 +1,4 @@
+/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/build/CMakeFiles/ProjetTD2.dir
+/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/build/CMakeFiles/ProjetTD2_couverture.dir
+/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/build/CMakeFiles/edit_cache.dir
+/Users/alexandreribeiro/Desktop/INF1015/untitled folder 2/inf1015-05/TD2/build/CMakeFiles/rebuild_cache.dir
